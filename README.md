@@ -31,7 +31,7 @@ I audit **harness systems**. I write the **prompts** that make models reliable. 
 | --- | --- |
 | [`llm-and-engine`](https://github.com/RyanDev1st/llm-and-engine) | LLM tool-calling research — training, evals, backend tools, chess demos |
 | [`FORGER / SkillRouter`](https://github.com/RyanDev1st/FORGER) | AI-driven framework for intelligent tool orchestration |
-| [`LiquidChess`](https://github.com/RyanDev1st/LiquidChess) | Chess engine + inspired web design |
+| [`LiquidChess`](https://ryandev1st.github.io/LiquidChess/) | Chess engine + inspired web design — [live demo](https://ryandev1st.github.io/LiquidChess/) |
 | [`portfolio-design`](https://github.com/RyanDev1st/portfolio-design) | Personal portfolio — [live demo](https://ryandev1st.github.io/portfolio-design/) |
 | [`Chess-Data`](https://github.com/RyanDev1st/Chess-Data) | Dataset engineering for chess AI evaluation |
 

@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=24&duration=2500&pause=800&color=E85D2C&center=true&vCenter=true&width=600&lines=harness+engineer;prompt+architect;context+designer;web+aesthetics" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=600&color=E85D2C&center=true&vCenter=true&width=700&lines=harness+engineer;prompt+architect;context+designer;web+aesthetics" alt="roles" />
 </p>
 
 <br>
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://ryandev1st.github.io/LiquidChess/">
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hero.png" width="640" alt="LiquidChess"/>
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hook.png" width="640" alt="LiquidChess"/>
   </a>
 </p>
 
@@ -32,7 +32,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ryandev1st.github.io/LiquidChess/">
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/voice-showcase.png" width="300" alt="voices"/>
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hero.png" width="300" alt="hero"/>
   </a>
 </p>
 
@@ -89,5 +89,5 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=500&lines=scaffolding+the+loop;writing+the+prompt;designing+the+outcome" alt="footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=F5F0E8&center=true&vCenter=true&width=600&lines=scaffolding+the+loop;writing+the+prompt;designing+the+outcome" alt="footer" />
 </p>

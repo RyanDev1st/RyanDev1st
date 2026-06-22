@@ -5,71 +5,49 @@
 &nbsp;
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=3000&pause=1200&color=F5F0E8&center=true&vCenter=true&width=550&lines=I+build+the+layer+between+models+and+the+real+world" alt="Typing tagline" />
+  <i>I build the layer between models and the real world.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-0d0d0d?style=for-the-badge&labelColor=E85D2C&color=0d0d0d" />
-  <img src="https://img.shields.io/badge/System%20Design-0d0d0d?style=for-the-badge&labelColor=E85D2C&color=0d0d0d" />
-  <img src="https://img.shields.io/badge/Web%20Aesthetics-0d0d0d?style=for-the-badge&labelColor=E85D2C&color=0d0d0d" />
-  <img src="https://img.shields.io/badge/Novice%20ML-0d0d0d?style=for-the-badge&labelColor=E85D2C&color=0d0d0d" />
+  <b>AI Engineer</b> — I audit harness systems, write prompts that make models reliable, and shape the context a model operates in. When the output needs to look like something a human would be proud of, I bring design.
 </p>
 
 &nbsp;
-
-Most AI demos work once. The hard piece is the scaffolding around the model — how tools are chosen, arguments validated, failures recovered, and results explained. That layer is what I design.
-
-I audit **harness systems**. I write the **prompts** that make models reliable. I shape the **context** a model operates within. And when the output needs to look like something a human would be proud of, I bring **design** — no generated sludge, no shortcuts.
-
-&nbsp;
-
-## Work
-
-<div align="center">
-
-| | |
-| --- | --- |
-| [`llm-and-engine`](https://github.com/RyanDev1st/llm-and-engine) | LLM tool-calling research — training, evals, backend tools, chess demos |
-| [`FORGER / SkillRouter`](https://github.com/RyanDev1st/FORGER) | AI-driven framework for intelligent tool orchestration |
-| [`LiquidChess`](https://ryandev1st.github.io/LiquidChess/) | Chess engine + inspired web design |
-| [`portfolio-design`](https://ryandev1st.github.io/portfolio-design/) | Personal portfolio |
-| [`Chess-Data`](https://github.com/RyanDev1st/Chess-Data) | Dataset engineering for chess AI evaluation |
-
-</div>
-
-&nbsp;
-
-## Design
 
 <p align="center">
   <a href="https://ryandev1st.github.io/LiquidChess/">
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hero.png" alt="LiquidChess" width="480"/>
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hero.png" alt="LiquidChess" width="520"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://ryandev1st.github.io/portfolio-design/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d0d0d,100:E85D2C&section=footer&text=PORTFOLIO&fontColor=F5F0E8&fontSize=28&desc=Inspired%20design%2C%20no%20AI%20slop&descAlignY=80&descSize=14" alt="Portfolio" width="480"/>
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/demo.png" alt="LiquidChess demo" width="256"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ryandev1st.github.io/portfolio-design/">
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/voice-showcase.png" alt="LiquidChess voices" width="256"/>
   </a>
 </p>
 
 &nbsp;
 
-## Stack
+### Work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,figma,git,github,vscode&theme=dark" alt="Tech stack" />
-</p>
+> [`LiquidChess`](https://ryandev1st.github.io/LiquidChess/) — Chess engine with AI commentary, voice modes, and inspired web design. [Live demo →](https://ryandev1st.github.io/LiquidChess/)
+
+> [`FORGER / SkillRouter`](https://github.com/RyanDev1st/FORGER) — AI-driven framework for intelligent tool orchestration
+
+> [`llm-and-engine`](https://github.com/RyanDev1st/llm-and-engine) — LLM tool-calling research: training, evals, backend tools, chess demos
+
+> [`portfolio-design`](https://ryandev1st.github.io/portfolio-design/) — Personal portfolio. [Live demo →](https://ryandev1st.github.io/portfolio-design/)
+
+> [`Chess-Data`](https://github.com/RyanDev1st/Chess-Data) — Dataset engineering for chess AI evaluation
 
 &nbsp;
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanDev1st&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=E85D2C&text_color=999999&icon_color=E85D2C" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDev1st&layout=compact&theme=transparent&hide_border=true&title_color=E85D2C&text_color=999999" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanDev1st&theme=vue" alt="Profile summary" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,figma,git,github,vscode&theme=dark" alt="Tech stack" />
 </p>
 
 &nbsp;

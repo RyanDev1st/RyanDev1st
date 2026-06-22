@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 64" width="1280" height="64" role="img" aria-label="04 — Connect">
+  <rect width="1280" height="64" fill="#0B0A08"/>
+  <rect x="40" y="27" width="9" height="9" fill="#C9A24B"/>
+  <text x="66" y="39" font-family="ui-monospace,'SF Mono',Consolas,monospace" font-size="15" letter-spacing="4" dominant-baseline="middle">
+    <tspan fill="#C9A24B">04</tspan><tspan fill="#6E6757">&#160;&#160;/&#160;&#160;</tspan><tspan fill="#ECE6DA">CONNECT</tspan>
+  </text>
+  <line x1="380" y1="32" x2="1240" y2="32" stroke="#C9A24B" stroke-opacity="0.22"/>
+</svg>

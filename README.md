@@ -1,93 +1,131 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d0d,40:0d0d0d,100:E85D2C&text=%0AI+build+the+layer+between%0Amodels+and+the+real+world.&fontColor=F5F0E8&fontSize=36&fontAlignY=40&desc=RyanDev1st&descAlignY=70&descSize=18&animation=fadeIn" alt="RyanDev1st" />
-</p>
-
-<br>
-<br>
+<!-- RyanDev1st · profile README · dark + gold, extends the Liquid Chess design language -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=600&color=E85D2C&center=true&vCenter=true&width=700&lines=harness+engineer;prompt+architect;context+designer;web+aesthetics" alt="roles" />
+  <img src="assets/hero.svg" width="100%" alt="Ryan — AI engineer. Anyone can prompt; I engineer the harness." />
 </p>
 
-<br>
+<br/>
+
+<!-- ─────────────────────────────  01 · WORK  ───────────────────────────── -->
+
+<img src="assets/label-work.svg" width="100%" alt="01 — Selected work · Design" />
+
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="6" border="0">
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://ryandev1st.github.io/LiquidChess/">
+        <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hero.png" width="100%" alt="Liquid Chess — the game speaks" />
+      </a>
+      <br/>
+      <sub><b>LIQUID&nbsp;CHESS</b>&nbsp;&nbsp;·&nbsp;&nbsp;real-time AI voice commentary for every opening, blunder and brilliancy&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://ryandev1st.github.io/LiquidChess/">live&nbsp;▸</a>&nbsp;&nbsp;<a href="https://github.com/RyanDev1st/LiquidChess">code&nbsp;▸</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="46%" valign="top" align="center">
+      <a href="https://ryandev1st.github.io/LiquidChess/">
+        <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/demo.png" width="100%" alt="Live demo — board, AI coach and live chat" />
+      </a>
+      <br/>
+      <sub><b>THE&nbsp;LIVE&nbsp;DEMO</b>&nbsp;&nbsp;·&nbsp;&nbsp;board + AI voice coach + live chat, eval in real time</sub>
+    </td>
+    <td width="54%" valign="top" align="center">
+      <a href="https://ryandev1st.github.io/LiquidChess/">
+        <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/voice-showcase.png" width="100%" alt="Your game, their voice — choose a commentator" />
+      </a>
+      <br/>
+      <sub><b>YOUR&nbsp;GAME.&nbsp;THEIR&nbsp;VOICE.</b>&nbsp;&nbsp;·&nbsp;&nbsp;pick the voice that calls your game</sub>
+      <br/><br/>
+      <a href="https://ryandev1st.github.io/LiquidChess/">
+        <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hook.png" width="100%" alt="Developer API — import the commentator" />
+      </a>
+      <br/>
+      <sub><b>A&nbsp;REAL&nbsp;PRODUCT</b>&nbsp;&nbsp;·&nbsp;&nbsp;<code>import&nbsp;{&nbsp;LiquidChess&nbsp;}</code> — commentary as an API</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://ryandev1st.github.io/portfolio-design/">
+        <img src="assets/portfolio.png" width="100%" alt="Portfolio — an interactive ASCII world" />
+      </a>
+      <br/>
+      <sub><b>PORTFOLIO</b>&nbsp;&nbsp;·&nbsp;&nbsp;an interactive ASCII world — harness · prompt · systems&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://ryandev1st.github.io/portfolio-design/">visit&nbsp;▸</a></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────────────────  02 · SYSTEMS  ───────────────────────────── -->
+
+<img src="assets/label-systems.svg" width="100%" alt="02 — Systems · AI engineering" />
+
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="6" border="0">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/RyanDev1st/FORGER">
+        <img src="assets/card-forger.svg" width="100%" alt="FORGER — SkillRouter, tool orchestration" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/RyanDev1st/llm-and-engine">
+        <img src="assets/card-harness.svg" width="100%" alt="llm-and-engine — tool-calling harness, train, eval" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:E85D2C,100:E85D2C&section=divider" alt="divider" width="200"/>
+  <sub>also&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/RyanDev1st/Chess-Data">Chess-Data</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://jack-sparrow-plum.vercel.app">Jack-Sparrow&nbsp;(live)</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/RyanDev1st/Apoc-Popper">Apoc-Popper</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/RyanDev1st?tab=repositories">all repos&nbsp;▸</a></sub>
 </p>
 
-<br>
-<br>
+<br/>
+
+<!-- ─────────────────────────────  03 · ABOUT  ───────────────────────────── -->
+
+<img src="assets/label-about.svg" width="100%" alt="03 — Who I am" />
+
+<br/>
+
+> **I'm not a coder who bolts AI on. I'm an AI engineer.**
+>
+> I work the layer most people skip — the **harness, the prompt, the context**. I audit an agent's **skills, tools and MCPs down to the right few**, so it thinks clean and runs lean instead of drowning in options. Lately I'm pivoting deeper into **system design**.
+>
+> And when something needs to be *seen*, I design it myself — striking, layered, intentional web with real depth. **No AI slop.**
+
+<br/>
 
 <p align="center">
-  <a href="https://ryandev1st.github.io/LiquidChess/">
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hook.png" width="640" alt="LiquidChess"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-0B0A08?style=flat-square&logo=python&logoColor=E4C77E&labelColor=0B0A08" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0B0A08?style=flat-square&logo=typescript&logoColor=E4C77E&labelColor=0B0A08" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0B0A08?style=flat-square&logo=javascript&logoColor=E4C77E&labelColor=0B0A08" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PyTorch-0B0A08?style=flat-square&logo=pytorch&logoColor=E4C77E&labelColor=0B0A08" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-0B0A08?style=flat-square&logo=huggingface&logoColor=E4C77E&labelColor=0B0A08" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Figma-0B0A08?style=flat-square&logo=figma&logoColor=E4C77E&labelColor=0B0A08" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-0B0A08?style=flat-square&logo=git&logoColor=E4C77E&labelColor=0B0A08" alt="Git" />
 </p>
 
-<br>
+<br/>
+
+<!-- ─────────────────────────────  04 · CONNECT  ───────────────────────────── -->
+
+<img src="assets/label-connect.svg" width="100%" alt="04 — Connect" />
+
+<br/>
 
 <p align="center">
-  <a href="https://ryandev1st.github.io/LiquidChess/">
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/demo.png" width="300" alt="board"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ryandev1st.github.io/LiquidChess/">
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hero.png" width="300" alt="hero"/>
-  </a>
+  <a href="https://github.com/RyanDev1st"><img src="https://img.shields.io/badge/GitHub-0B0A08?style=flat-square&logo=github&logoColor=E4C77E&labelColor=0B0A08" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ryandev1st/"><img src="https://img.shields.io/badge/LinkedIn-0B0A08?style=flat-square&logo=linkedin&logoColor=E4C77E&labelColor=0B0A08" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.facebook.com/ryancpp/"><img src="https://img.shields.io/badge/Facebook-0B0A08?style=flat-square&logo=facebook&logoColor=E4C77E&labelColor=0B0A08" alt="Facebook" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Discord-ryandev1st-0B0A08?style=flat-square&logo=discord&logoColor=E4C77E&labelColor=0B0A08" alt="Discord — ryandev1st" />
 </p>
 
-<br>
+<br/>
 
-<p align="center">
-  <a href="https://ryandev1st.github.io/LiquidChess/">
-    <b>live demo →</b>
-  </a>
-</p>
-
-<br>
-<br>
-
-<details>
-<summary><b>◆ what i actually do</b></summary>
-
-<br>
-
-> Most AI demos work once. The hard piece is the scaffolding around the model — how tools are chosen, arguments validated, failures recovered, and results explained.
-
-> I audit **harness systems**. I write the **prompts** that make models reliable. I shape the **context** a model operates in. And when the output needs to look like something a human would be proud of, I bring **design** — no generated sludge, no shortcuts.
-
-<br>
-
-### work
-
-> [`LiquidChess`](https://ryandev1st.github.io/LiquidChess/) — Chess engine with AI commentary, voice modes, and inspired design
-
-> [`FORGER / SkillRouter`](https://github.com/RyanDev1st/FORGER) — AI-driven framework for intelligent tool orchestration
-
-> [`llm-and-engine`](https://github.com/RyanDev1st/llm-and-engine) — LLM tool-calling research: training, evals, backend tools
-
-> [`portfolio-design`](https://ryandev1st.github.io/portfolio-design/) — [live demo](https://ryandev1st.github.io/portfolio-design/)
-
-> [`Chess-Data`](https://github.com/RyanDev1st/Chess-Data) — Dataset engineering for chess AI evaluation
-
-</details>
-
-<br>
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,figma,git,github,vscode&theme=dark" alt="stack" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:E85D2C,100:E85D2C&section=divider" alt="divider" width="200"/>
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=F5F0E8&center=true&vCenter=true&width=600&lines=scaffolding+the+loop;writing+the+prompt;designing+the+outcome" alt="footer" />
-</p>
+<p align="center"><sub><i>Elevate your experience.</i></sub></p>

@@ -1,45 +1,46 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:7c3aed&text=RyanDev1st&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20Tooling%20%7C%20Agent%20Systems%20%7C%20Chess%20Engines&descAlignY=58&animation=fadeIn" alt="RyanDev1st profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:7c3aed&text=RyanDev1st&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20Harnesses%20%7C%20Inspired%20Design&descAlignY=58&animation=fadeIn" alt="RyanDev1st profile banner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/RyanDev1st?tab=repositories"><img src="https://img.shields.io/badge/Projects-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-  <a href="https://github.com/RyanDev1st/llm-and-engine"><img src="https://img.shields.io/badge/LLM%20Tooling-2563eb?style=for-the-badge&logo=python&logoColor=white" alt="LLM tooling" /></a>
-  <a href="https://github.com/RyanDev1st/FORGER"><img src="https://img.shields.io/badge/FORGER-7c3aed?style=for-the-badge&logo=javascript&logoColor=white" alt="FORGER" /></a>
+  <a href="https://github.com/RyanDev1st/portfolio-design"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/RyanDev1st/llm-and-engine"><img src="https://img.shields.io/badge/LLM%20Harness-2563eb?style=for-the-badge&logo=python&logoColor=white" alt="LLM tooling" /></a>
+  <a href="https://github.com/RyanDev1st/FORGER"><img src="https://img.shields.io/badge/SkillRouter-7c3aed?style=for-the-badge&logo=javascript&logoColor=white" alt="SkillRouter" /></a>
 </p>
 
-## Building reliable AI tools, agent workflows, and chess systems
+## AI Engineer & Designer
 
-I build software where LLMs do real work: choosing tools, validating arguments, calling backends, recovering from failures, and explaining results clearly. My public work mixes AI tooling, chess-engine experiments, datasets, and full-stack prototypes.
+I do not define myself as a coder. I am an **AI Engineer**. I build and audit agent harnesses, skill systems, and prompts.
+
+Most AI applications break in the wild. I focus on the tools, the harness, and the prompt engineering required to make AI systems robust and effective. I audit skill systems, refine harnesses, construct powerful prompts, and ensure the entire loop functions flawlessly. I also specialize in **inspired design**—absolutely no AI slop designs!
 
 ```text
-Focus       LLM tool use, agent harnesses, chess engines, evaluation systems
-Languages   Python, JavaScript, TypeScript, HTML/CSS
-Style       Practical prototypes, real backends, measurable behavior
-Goal        Turn experiments into useful, reliable developer tools
+Core Focus    Harness engineering, prompt engineering, skill auditing, AI system architecture
+Execution     Auditing systems, designing tools to work effectively with AIs
+Aesthetics    Inspired designing (No AI slop!)
+Languages     Python, TypeScript, JavaScript, HTML/CSS
 ```
 
-## Featured Builds
+## Featured Work & Designs
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
-| [`llm-and-engine`](https://github.com/RyanDev1st/llm-and-engine) | LLM tool-calling research, training/eval workflows, backend tools, and chess-engine demos. | Python |
-| [`FORGER`](https://github.com/RyanDev1st/FORGER) | AI-driven framework experiments for orchestrating intelligent tools. | JavaScript |
-| [`LiquidChess`](https://github.com/RyanDev1st/LiquidChess) | Chess engine and chess-system experimentation. | Python |
-| [`Apoc-Popper`](https://github.com/RyanDev1st/Apoc-Popper) | Interactive TypeScript/web software experiments. | TypeScript |
-| [`Chess-Data`](https://github.com/RyanDev1st/Chess-Data) | Dataset and processing work for chess AI projects. | Data |
+| [`portfolio-design`](https://github.com/RyanDev1st/portfolio-design) | My personal portfolio with inspired design, crafted by hand. No AI slop. Check out the [Live Demo](https://RyanDev1st.github.io/portfolio-design). | HTML/CSS/JS |
+| [`SkillRouter` / `FORGER`](https://github.com/RyanDev1st/FORGER) | AI-driven framework for orchestrating intelligent tools, featuring my custom skill routing systems. | JavaScript |
+| [`LiquidChess Website Design`](https://github.com/RyanDev1st/LiquidChess) | Inspired website design and experimentation for the LiquidChess engine ecosystem. | Python / Design |
+| [`llm-and-engine`](https://github.com/RyanDev1st/llm-and-engine) | LLM tool-calling workspace focusing on harness engineering, prompt evals, and skill auditing. | Python |
+| [`Chess-Data`](https://github.com/RyanDev1st/Chess-Data) | Dataset engineering and processing work essential for evaluating AI models. | Data |
 
-## Current Direction
+## My Philosophy
 
-- Training small models to use tools reliably instead of only generating text.
-- Building evaluation loops for multi-step agent behavior.
-- Combining chess engines, datasets, and LLM interfaces into practical demos.
-- Polishing experimental repositories into clear, useful public projects.
+- **Engineering over Coding:** It's about designing the prompt, the harness, and the system structure.
+- **Inspired Design:** Authentic, human-refined aesthetics that stand out from generated sludge.
+- **Audit & Understand:** You have to know the tools to work effectively with AI. I audit skill systems and traces to ensure control.
 
 ## Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,figma,git,github,vscode" alt="Tech stack icons" />
 </p>
 
 ## GitHub Snapshot
@@ -49,19 +50,8 @@ Goal        Turn experiments into useful, reliable developer tools
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDev1st&layout=compact&theme=github_dark&hide_border=true" alt="RyanDev1st top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanDev1st&theme=github_dark" alt="RyanDev1st profile summary" />
-</p>
-
-## What I Care About
-
-- Real behavior over mock demos.
-- Clear repository structure and readable docs.
-- Tool calls that fail loudly, recover cleanly, and stay inspectable.
-- Projects that show both product thinking and engineering depth.
-
 ---
 
 <p align="center">
-  <strong>Building in public, one reliable system at a time.</strong>
+  <strong>Engineering the harness, auditing the skills, and designing without the slop.</strong>
 </p>

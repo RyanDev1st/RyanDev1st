@@ -1,71 +1,55 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:7c3aed&text=RyanDev1st&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20Harnesses%20%7C%20Inspired%20Design&descAlignY=58&animation=fadeIn" alt="RyanDev1st profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:7c3aed&text=RyanDev1st&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Harness%20%C2%B7%20Prompt%20%C2%B7%20Context%20%C2%B7%20Design&descAlignY=58&animation=fadeIn" alt="RyanDev1st profile banner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/RyanDev1st/portfolio-design"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/RyanDev1st/llm-and-engine"><img src="https://img.shields.io/badge/LLM%20Harness-2563eb?style=for-the-badge&logo=python&logoColor=white" alt="LLM tooling" /></a>
-  <a href="https://github.com/RyanDev1st/FORGER"><img src="https://img.shields.io/badge/SkillRouter-7c3aed?style=for-the-badge&logo=javascript&logoColor=white" alt="SkillRouter" /></a>
-  <a href="https://ryandev1st.github.io/portfolio-design/"><img src="https://img.shields.io/badge/Live%20Demo-d9dad4?style=for-the-badge&logo=vercel&logoColor=0b0c0e" alt="Live Demo" /></a>
+  <img src="https://img.shields.io/badge/AI%20Engineer-0f172a?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-2563eb?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Aesthetics-7c3aed?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Novice%20ML-ff2a12?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://ryandev1st.github.io/portfolio-design/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0b0c0e,100:ff2a12&section=footer&text=PORTFOLIO%20LIVE&fontColor=d9dad4&fontSize=28&desc=Inspired%20design,%20no%20AI%20slop&descAlignY=80&descSize=14" alt="Portfolio live preview" width="440"/>
-  </a>
+  <i>I make AI behave. Harness engineer. Prompt architect. Context designer.</i>
+</p>
+
+## Design
+
+<p align="center">
   <a href="https://github.com/RyanDev1st/LiquidChess">
     <img src="https://opengraph.githubassets.com/7a3c6a705210b801c052ba8fea8482f9f93e7c5e47e3c132d9a3727dd6c69cfe/RyanDev1st/LiquidChess" alt="LiquidChess" width="440"/>
   </a>
+  <a href="https://ryandev1st.github.io/portfolio-design/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0b0c0e,100:ff2a12&section=footer&text=PORTFOLIO&fontColor=d9dad4&fontSize=28&desc=Inspired%20design,%20no%20AI%20slop&descAlignY=80&descSize=14" alt="Portfolio" width="440"/>
+  </a>
 </p>
 
-## AI Engineer & Designer
-
-I do not define myself as a coder. I am an **AI Engineer**. I build and audit agent harnesses, skill systems, and prompts.
-
-Most AI applications break in the wild. I focus on the tools, the harness, and the prompt engineering required to make AI systems robust and effective. I audit skill systems, refine harnesses, construct powerful prompts, and ensure the entire loop functions flawlessly. I also specialize in **inspired design**—absolutely no AI slop designs!
-
-```text
-Core Focus    Harness engineering, prompt engineering, skill auditing, AI system architecture
-Execution     Auditing systems, designing tools to work effectively with AIs
-Aesthetics    Inspired designing (No AI slop!)
-Languages     Python, TypeScript, JavaScript, HTML/CSS
-```
-
-## Featured Work & Designs
-
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [`portfolio-design`](https://github.com/RyanDev1st/portfolio-design) | My personal portfolio with inspired design, crafted by hand. No AI slop. Check out the [Live Demo](https://RyanDev1st.github.io/portfolio-design). | HTML/CSS/JS |
-| [`SkillRouter` / `FORGER`](https://github.com/RyanDev1st/FORGER) | AI-driven framework for orchestrating intelligent tools, featuring my custom skill routing systems. | JavaScript |
-| [`LiquidChess Website Design`](https://github.com/RyanDev1st/LiquidChess) | Inspired website design and experimentation for the LiquidChess engine ecosystem. | Python / Design |
-| [`llm-and-engine`](https://github.com/RyanDev1st/llm-and-engine) | LLM tool-calling workspace focusing on harness engineering, prompt evals, and skill auditing. | Python |
-| [`Chess-Data`](https://github.com/RyanDev1st/Chess-Data) | Dataset engineering and processing work essential for evaluating AI models. | Data |
-
-## My Philosophy
-
-- **Engineering over Coding:** It's about designing the prompt, the harness, and the system structure.
-- **Inspired Design:** Authentic, human-refined aesthetics that stand out from generated sludge.
-- **Audit & Understand:** You have to know the tools to work effectively with AI. I audit skill systems and traces to ensure control.
-
-## Toolbox
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,figma,git,github,vscode" alt="Tech stack icons" />
-</p>
-
-## GitHub Snapshot
+## Builds
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanDev1st&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="RyanDev1st GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDev1st&layout=compact&theme=github_dark&hide_border=true" alt="RyanDev1st top languages" />
+  <a href="https://github.com/RyanDev1st/llm-and-engine"><img src="https://img.shields.io/badge/llm--and--engine-0f172a?style=for-the-badge" /></a>
+  <a href="https://github.com/RyanDev1st/FORGER"><img src="https://img.shields.io/badge/FORGER%20%2F%20SkillRouter-2563eb?style=for-the-badge" /></a>
+  <a href="https://github.com/RyanDev1st/LiquidChess"><img src="https://img.shields.io/badge/LiquidChess-7c3aed?style=for-the-badge" /></a>
+  <a href="https://github.com/RyanDev1st/portfolio-design"><img src="https://img.shields.io/badge/portfolio--design-ff2a12?style=for-the-badge" /></a>
+  <a href="https://github.com/RyanDev1st/Chess-Data"><img src="https://img.shields.io/badge/Chess--Data-808080?style=for-the-badge" /></a>
+</p>
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,figma,git,github,vscode" alt="Tech stack" />
+</p>
+
+## Snapshot
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanDev1st&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDev1st&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanDev1st&theme=github_dark" alt="Profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanDev1st&theme=github_dark" />
 </p>
 
 ---
-
-<p align="center">
-  <strong>Engineering the harness, auditing the skills, and designing without the slop.</strong>
-</p>
+<p align="center"><i>Harness. Prompt. Context. Design.</i></p>

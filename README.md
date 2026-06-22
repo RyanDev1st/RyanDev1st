@@ -6,6 +6,16 @@
   <a href="https://github.com/RyanDev1st/portfolio-design"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/RyanDev1st/llm-and-engine"><img src="https://img.shields.io/badge/LLM%20Harness-2563eb?style=for-the-badge&logo=python&logoColor=white" alt="LLM tooling" /></a>
   <a href="https://github.com/RyanDev1st/FORGER"><img src="https://img.shields.io/badge/SkillRouter-7c3aed?style=for-the-badge&logo=javascript&logoColor=white" alt="SkillRouter" /></a>
+  <a href="https://ryandev1st.github.io/portfolio-design/"><img src="https://img.shields.io/badge/Live%20Demo-d9dad4?style=for-the-badge&logo=vercel&logoColor=0b0c0e" alt="Live Demo" /></a>
+</p>
+
+<p align="center">
+  <a href="https://ryandev1st.github.io/portfolio-design/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0b0c0e,100:ff2a12&section=footer&text=PORTFOLIO%20LIVE&fontColor=d9dad4&fontSize=28&desc=Inspired%20design,%20no%20AI%20slop&descAlignY=80&descSize=14" alt="Portfolio live preview" width="440"/>
+  </a>
+  <a href="https://github.com/RyanDev1st/LiquidChess">
+    <img src="https://opengraph.githubassets.com/7a3c6a705210b801c052ba8fea8482f9f93e7c5e47e3c132d9a3727dd6c69cfe/RyanDev1st/LiquidChess" alt="LiquidChess" width="440"/>
+  </a>
 </p>
 
 ## AI Engineer & Designer
@@ -48,6 +58,10 @@ Languages     Python, TypeScript, JavaScript, HTML/CSS
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanDev1st&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="RyanDev1st GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDev1st&layout=compact&theme=github_dark&hide_border=true" alt="RyanDev1st top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanDev1st&theme=github_dark" alt="Profile summary" />
 </p>
 
 ---

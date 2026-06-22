@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1a1a,50:4a4a4a,100:8b7355&text=RyanDev1st&fontColor=f5f0e8&fontSize=54&fontAlignY=38&desc=Harness%20%C2%B7%20Prompt%20%C2%B7%20Context%20%C2%B7%20Design&descAlignY=58&animation=fadeIn" alt="RyanDev1st profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:0d0d0d,100:E85D2C&text=RyanDev1st&fontColor=F5F0E8&fontSize=54&fontAlignY=38&desc=Harness%20%C2%B7%20Prompt%20%C2%B7%20Context%20%C2%B7%20Design&descAlignY=58&animation=fadeIn" alt="RyanDev1st profile banner" />
 </p>
 
 &nbsp;
 
 <p align="center">
-  <i>I build the layer between models and the real world.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1500&color=E85D2C&center=true&vCenter=true&width=600&lines=I+build+the+layer+between+models+and+the+real+world" alt="Typing tagline" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-1a1a1a?style=for-the-badge&labelColor=8b7355&color=1a1a1a" />
-  <img src="https://img.shields.io/badge/System%20Design-1a1a1a?style=for-the-badge&labelColor=8b7355&color=1a1a1a" />
-  <img src="https://img.shields.io/badge/Web%20Aesthetics-1a1a1a?style=for-the-badge&labelColor=8b7355&color=1a1a1a" />
-  <img src="https://img.shields.io/badge/Novice%20ML-1a1a1a?style=for-the-badge&labelColor=8b7355&color=1a1a1a" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-0d0d0d?style=for-the-badge&labelColor=E85D2C&color=0d0d0d" />
+  <img src="https://img.shields.io/badge/System%20Design-0d0d0d?style=for-the-badge&labelColor=E85D2C&color=0d0d0d" />
+  <img src="https://img.shields.io/badge/Web%20Aesthetics-0d0d0d?style=for-the-badge&labelColor=E85D2C&color=0d0d0d" />
+  <img src="https://img.shields.io/badge/Novice%20ML-0d0d0d?style=for-the-badge&labelColor=E85D2C&color=0d0d0d" />
 </p>
 
 &nbsp;
@@ -43,10 +43,16 @@ I audit **harness systems**. I write the **prompts** that make models reliable. 
 
 <p align="center">
   <a href="https://ryandev1st.github.io/LiquidChess/">
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/src/app/frontend/hero.png" alt="LiquidChess hero" width="440"/>
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hero.png" alt="LiquidChess hero" width="440"/>
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hook.png" alt="LiquidChess hook" width="440"/>
   </a>
-  <a href="https://ryandev1st.github.io/portfolio-design/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a1a,100:8b7355&section=footer&text=PORTFOLIO&fontColor=f5f0e8&fontSize=28&desc=Inspired%20design&descAlignY=80&descSize=14" alt="Portfolio" width="440"/>
+</p>
+
+<p align="center">
+  <a href="https://ryandev1st.github.io/LiquidChess/">
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/demo.png" alt="LiquidChess demo" width="290"/>
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/voice-showcase.png" alt="LiquidChess voices" width="290"/>
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/footer.png" alt="LiquidChess footer" width="290"/>
   </a>
 </p>
 
@@ -55,18 +61,18 @@ I audit **harness systems**. I write the **prompts** that make models reliable. 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,figma,git,github,vscode&theme=light" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,figma,git,github,vscode&theme=dark" alt="Tech stack" />
 </p>
 
 &nbsp;
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanDev1st&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=4a4a4a&text_color=6b6b6b&icon_color=8b7355" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDev1st&layout=compact&theme=transparent&hide_border=true&title_color=4a4a4a&text_color=6b6b6b" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanDev1st&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=E85D2C&text_color=999999&icon_color=E85D2C" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDev1st&layout=compact&theme=transparent&hide_border=true&title_color=E85D2C&text_color=999999" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanDev1st&theme=default" alt="Profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanDev1st&theme=vue" alt="Profile summary" />
 </p>
 
 &nbsp;

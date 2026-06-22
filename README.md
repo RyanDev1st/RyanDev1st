@@ -43,7 +43,7 @@ I audit **harness systems**. I write the **prompts** that make models reliable. 
 
 <p align="center">
   <a href="https://github.com/RyanDev1st/LiquidChess">
-    <img src="https://opengraph.githubassets.com/7a3c6a705210b801c052ba8fea8482f9f93e7c5e47e3c132d9a3727dd6c69cfe/RyanDev1st/LiquidChess" alt="LiquidChess" width="440"/>
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/src/app/frontend/hero.png" alt="LiquidChess design" width="440"/>
   </a>
   <a href="https://ryandev1st.github.io/portfolio-design/">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a1a,100:8b7355&section=footer&text=PORTFOLIO&fontColor=f5f0e8&fontSize=28&desc=Inspired%20design&descAlignY=80&descSize=14" alt="Portfolio" width="440"/>

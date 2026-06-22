@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 760 380" width="760" height="380" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" role="img" aria-label="FORGER — SkillRouter, tool orchestration">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 760 380" width="760" height="380" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" role="img" aria-label="FORGER: SkillRouter, tool orchestration">
   <defs>
     <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#8C6B2E"/><stop offset="1" stop-color="#E4C77E"/>
@@ -45,6 +45,6 @@
     </g>
   </g>
 
-  <text x="40" y="350" font-size="15" fill="#9A917F">Routes intent to the right tool — audited to the right few.</text>
+  <text x="40" y="350" font-size="15" fill="#9A917F">Routes intent to the right tool, audited to the right few.</text>
   <text x="720" y="350" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#6E6757" text-anchor="end">JS</text>
 </svg>

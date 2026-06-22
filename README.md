@@ -5,7 +5,7 @@
 &nbsp;
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1500&color=E85D2C&center=true&vCenter=true&width=600&lines=I+build+the+layer+between+models+and+the+real+world" alt="Typing tagline" />
+  <i>I build the layer between models and the real world.</i>
 </p>
 
 <p align="center">
@@ -23,23 +23,7 @@ I audit **harness systems**. I write the **prompts** that make models reliable. 
 
 &nbsp;
 
-## Work
-
-<div align="center">
-
-| | |
-| --- | --- |
-| [`llm-and-engine`](https://github.com/RyanDev1st/llm-and-engine) | LLM tool-calling research — training, evals, backend tools, chess demos |
-| [`FORGER / SkillRouter`](https://github.com/RyanDev1st/FORGER) | AI-driven framework for intelligent tool orchestration |
-| [`LiquidChess`](https://ryandev1st.github.io/LiquidChess/) | Chess engine + inspired web design — [live demo](https://ryandev1st.github.io/LiquidChess/) |
-| [`portfolio-design`](https://github.com/RyanDev1st/portfolio-design) | Personal portfolio — [live demo](https://ryandev1st.github.io/portfolio-design/) |
-| [`Chess-Data`](https://github.com/RyanDev1st/Chess-Data) | Dataset engineering for chess AI evaluation |
-
-</div>
-
-&nbsp;
-
-## Design
+## LiquidChess
 
 <p align="center">
   <a href="https://ryandev1st.github.io/LiquidChess/">
@@ -55,6 +39,32 @@ I audit **harness systems**. I write the **prompts** that make models reliable. 
     <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/footer.png" alt="LiquidChess footer" width="290"/>
   </a>
 </p>
+
+&nbsp;
+
+## Portfolio
+
+<p align="center">
+  <a href="https://ryandev1st.github.io/portfolio-design/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d0d0d,100:E85D2C&section=footer&text=PORTFOLIO&fontColor=F5F0E8&fontSize=28&desc=Inspired%20design&descAlignY=80&descSize=14" alt="Portfolio" width="440"/>
+  </a>
+</p>
+
+&nbsp;
+
+## Work
+
+<div align="center">
+
+| | |
+| --- | --- |
+| [`llm-and-engine`](https://github.com/RyanDev1st/llm-and-engine) | LLM tool-calling research — training, evals, backend tools, chess demos |
+| [`FORGER / SkillRouter`](https://github.com/RyanDev1st/FORGER) | AI-driven framework for intelligent tool orchestration |
+| [`LiquidChess`](https://ryandev1st.github.io/LiquidChess/) | Chess engine + inspired web design — [live demo](https://ryandev1st.github.io/LiquidChess/) |
+| [`portfolio-design`](https://github.com/RyanDev1st/portfolio-design) | Personal portfolio — [live demo](https://ryandev1st.github.io/portfolio-design/) |
+| [`Chess-Data`](https://github.com/RyanDev1st/Chess-Data) | Dataset engineering for chess AI evaluation |
+
+</div>
 
 &nbsp;
 

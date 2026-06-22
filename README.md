@@ -52,16 +52,6 @@ I audit **harness systems**. I write the **prompts** that make models reliable. 
 
 &nbsp;
 
-<p align="center">
-  <a href="https://ryandev1st.github.io/LiquidChess/">
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/output/playwright/hook-desktop.png" alt="LiquidChess hook" width="280"/>
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/output/playwright/liquidchess-demo-desktop.png" alt="LiquidChess demo" width="280"/>
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/output/playwright/liquidchess-footer-desktop.png" alt="LiquidChess footer" width="280"/>
-  </a>
-</p>
-
-&nbsp;
-
 ## Stack
 
 <p align="center">

@@ -42,11 +42,21 @@ I audit **harness systems**. I write the **prompts** that make models reliable. 
 ## Design
 
 <p align="center">
-  <a href="https://github.com/RyanDev1st/LiquidChess">
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/src/app/frontend/hero.png" alt="LiquidChess design" width="440"/>
+  <a href="https://ryandev1st.github.io/LiquidChess/">
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/src/app/frontend/hero.png" alt="LiquidChess hero" width="440"/>
   </a>
   <a href="https://ryandev1st.github.io/portfolio-design/">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a1a,100:8b7355&section=footer&text=PORTFOLIO&fontColor=f5f0e8&fontSize=28&desc=Inspired%20design&descAlignY=80&descSize=14" alt="Portfolio" width="440"/>
+  </a>
+</p>
+
+&nbsp;
+
+<p align="center">
+  <a href="https://ryandev1st.github.io/LiquidChess/">
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/output/playwright/hook-desktop.png" alt="LiquidChess hook" width="280"/>
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/output/playwright/liquidchess-demo-desktop.png" alt="LiquidChess demo" width="280"/>
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/output/playwright/liquidchess-footer-desktop.png" alt="LiquidChess footer" width="280"/>
   </a>
 </p>
 

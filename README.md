@@ -21,11 +21,11 @@
 </p>
 
 <p align="center">
-  <a href="https://ryandev1st.github.io/portfolio-design/">
+  <a href="https://ryandev1st.github.io/LiquidChess/">
     <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/demo.png" alt="LiquidChess demo" width="256"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://ryandev1st.github.io/portfolio-design/">
+  <a href="https://ryandev1st.github.io/LiquidChess/">
     <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/voice-showcase.png" alt="LiquidChess voices" width="256"/>
   </a>
 </p>

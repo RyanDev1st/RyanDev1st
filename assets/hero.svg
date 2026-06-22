@@ -9,14 +9,40 @@
       <stop offset="0" stop-color="#C9A24B" stop-opacity="0.15"/>
       <stop offset="1" stop-color="#C9A24B" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.03"/>
+
+    <!-- ===== Apple-style Liquid Glass (honest SVG approximation) ===== -->
+    <!-- frost veil: light catch on top, denser toward the bottom so text stays legible -->
+    <linearGradient id="lg-frost" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   stop-color="#3A352A" stop-opacity="0.42"/>
+      <stop offset="0.5" stop-color="#15130E" stop-opacity="0.56"/>
+      <stop offset="1"   stop-color="#0C0B09" stop-opacity="0.64"/>
     </linearGradient>
-    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5"/></filter>
-    <filter id="lift" x="-20%" y="-40%" width="140%" height="180%">
-      <feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#000000" flood-opacity="0.45"/>
+    <!-- specular sheen across the top third (the signature liquid-glass light edge) -->
+    <linearGradient id="lg-sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"    stop-color="#FFFFFF" stop-opacity="0.30"/>
+      <stop offset="0.42" stop-color="#FFFFFF" stop-opacity="0.04"/>
+      <stop offset="1"    stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <!-- rim: lit on top, shadowed on the bottom edge => 3D glass lip -->
+    <linearGradient id="lg-rim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"    stop-color="#FFFFFF" stop-opacity="0.62"/>
+      <stop offset="0.5"  stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="1"    stop-color="#000000" stop-opacity="0.28"/>
+    </linearGradient>
+    <clipPath id="lg-clip"><rect x="52" y="312" width="616" height="60" rx="20"/></clipPath>
+    <filter id="lg-refract" x="-20%" y="-40%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="2.1"/>
     </filter>
+    <filter id="lg-lift" x="-30%" y="-60%" width="160%" height="260%">
+      <feDropShadow dx="0" dy="6" stdDeviation="11" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+    <filter id="lg-innershadow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dy="2" result="o"/>
+      <feComposite in="SourceGraphic" in2="o" operator="out"/>
+    </filter>
+
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5"/></filter>
   </defs>
 
   <style>
@@ -24,10 +50,10 @@
     .mono  { font-family: ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace; }
     .serif { font-family: Georgia, 'Times New Roman', serif; font-style: italic; }
 
-    .kick, .subwrap, .sig { opacity: 0; }
-    .kick   { animation: fade .7s ease .20s forwards; }
-    .subwrap{ animation: fade .8s ease 2.70s forwards; }
-    .sig    { animation: fade .8s ease 3.00s forwards; }
+    .kick, .glass, .sig { opacity: 0; }
+    .kick  { animation: fade .7s ease .20s forwards; }
+    .glass { animation: fade .9s ease 2.70s forwards; }
+    .sig   { animation: fade .8s ease 3.00s forwards; }
 
     .l1 { animation: type1 .95s steps(18,end) .50s both; }
     .l2 { animation: type2 1.15s steps(23,end) 1.50s both; }
@@ -55,7 +81,7 @@
     @keyframes fade { to { opacity: 1; } }
 
     @media (prefers-reduced-motion: reduce) {
-      .kick,.subwrap,.sig { opacity: 1; animation: none; }
+      .kick,.glass,.sig { opacity: 1; animation: none; }
       .l1,.l2 { animation: none; clip-path: none; }
       .flow { animation: none; stroke-dashoffset: 0; }
       .spark,.sparkglow { animation: none; display: none; }
@@ -90,10 +116,28 @@
   <text class="l1 sans" x="62" y="208" font-size="50" font-weight="600" fill="#ECE6DA">Anyone can prompt.</text>
   <text class="l2 sans" x="62" y="278" font-size="50" font-weight="600" fill="#ECE6DA">I engineer the <tspan class="serif" font-weight="500" fill="#E4C77E">harness.</tspan><tspan class="caret" font-weight="400" fill="#E4C77E" dx="6">&#9612;</tspan></text>
 
-  <g class="subwrap">
-    <rect x="56" y="316" width="612" height="46" rx="12" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity="0.14" filter="url(#lift)"/>
-    <line x1="68" y1="318" x2="656" y2="318" stroke="#FFFFFF" stroke-opacity="0.16"/>
-    <text class="sans" x="78" y="345" font-size="18" fill="#EDE7DB">I tune the loop, not just the prompt. Then I design the web to <tspan class="serif" fill="#E4C77E">feel.</tspan></text>
+  <!-- ===== Liquid Glass subline ===== -->
+  <g class="glass">
+    <!-- lift -->
+    <rect x="52" y="312" width="616" height="60" rx="20" fill="#000000" fill-opacity="0.001" filter="url(#lg-lift)"/>
+    <g clip-path="url(#lg-clip)">
+      <!-- refracted gold line: bent + magnified + blurred, as if seen through the lens -->
+      <path d="M -40 332 C 260 252 460 472 720 302 S 1120 122 1340 202"
+            fill="none" stroke="#F0DEA8" stroke-width="3.4" stroke-linecap="round"
+            transform="translate(0,7) scale(1,1.06)" filter="url(#lg-refract)" opacity="0.9"/>
+      <!-- frost veil -->
+      <rect x="52" y="312" width="616" height="60" fill="url(#lg-frost)"/>
+      <!-- specular sheen on the top third -->
+      <rect x="52" y="312" width="616" height="60" fill="url(#lg-sheen)"/>
+      <!-- soft top-left light blob -->
+      <ellipse cx="150" cy="318" rx="150" ry="22" fill="#FFFFFF" opacity="0.10" filter="url(#soft)"/>
+    </g>
+    <!-- lit / shadowed rim -->
+    <rect x="52.5" y="312.5" width="615" height="59" rx="19.5" fill="none" stroke="url(#lg-rim)" stroke-width="1.1"/>
+    <!-- bright top hairline highlight -->
+    <path d="M 74 313.4 H 646" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1" stroke-linecap="round"/>
+    <!-- text -->
+    <text class="sans" x="74" y="349" font-size="17.5" fill="#F6F1E6">I tune the loop, not just the prompt. Then I design the web to <tspan class="serif" fill="#E9CF86">feel.</tspan></text>
   </g>
 
   <text class="sig mono" x="64" y="408" font-size="13" letter-spacing="3" fill="#6E6757">RYANDEV1ST</text>

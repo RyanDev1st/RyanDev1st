@@ -12,7 +12,7 @@
 
 <br/>
 
-<table width="100%" cellspacing="0" cellpadding="6" border="0">
+<table width="100%" cellspacing="0" cellpadding="7" border="0">
   <tr>
     <td colspan="2" align="center">
       <a href="https://ryandev1st.github.io/LiquidChess/">
@@ -25,7 +25,7 @@
     </td>
   </tr>
   <tr>
-    <td width="46%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://ryandev1st.github.io/LiquidChess/">
         <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/demo.png" width="100%" alt="Live demo: board, AI coach and live chat" />
       </a>
@@ -34,7 +34,7 @@
       <br/>
       <sub>Board, AI voice coach and live chat, scored in real time.</sub>
     </td>
-    <td width="54%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://ryandev1st.github.io/LiquidChess/">
         <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/voice-showcase.png" width="100%" alt="Your game, their voice: choose a commentator" />
       </a>
@@ -42,7 +42,10 @@
       <b>YOUR&nbsp;GAME.&nbsp;THEIR&nbsp;VOICE.</b>
       <br/>
       <sub>Pick the voice that calls your game.</sub>
-      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
       <a href="https://ryandev1st.github.io/LiquidChess/">
         <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hook.png" width="100%" alt="Developer API: import the commentator" />
       </a>
@@ -51,9 +54,7 @@
       <br/>
       <sub><code>import&nbsp;{&nbsp;LiquidChess&nbsp;}</code>, commentary shipped as an API.</sub>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://ryandev1st.github.io/portfolio-design/">
         <img src="assets/portfolio.png" width="100%" alt="Portfolio: an interactive ASCII world" />
       </a>

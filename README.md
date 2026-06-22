@@ -5,7 +5,7 @@
 &nbsp;
 
 <p align="center">
-  <i>I build the layer between models and the real world.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=3000&pause=1200&color=F5F0E8&center=true&vCenter=true&width=550&lines=I+build+the+layer+between+models+and+the+real+world" alt="Typing tagline" />
 </p>
 
 <p align="center">
@@ -23,35 +23,6 @@ I audit **harness systems**. I write the **prompts** that make models reliable. 
 
 &nbsp;
 
-## LiquidChess
-
-<p align="center">
-  <a href="https://ryandev1st.github.io/LiquidChess/">
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hero.png" alt="LiquidChess hero" width="440"/>
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hook.png" alt="LiquidChess hook" width="440"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://ryandev1st.github.io/LiquidChess/">
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/demo.png" alt="LiquidChess demo" width="290"/>
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/voice-showcase.png" alt="LiquidChess voices" width="290"/>
-    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/footer.png" alt="LiquidChess footer" width="290"/>
-  </a>
-</p>
-
-&nbsp;
-
-## Portfolio
-
-<p align="center">
-  <a href="https://ryandev1st.github.io/portfolio-design/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d0d0d,100:E85D2C&section=footer&text=PORTFOLIO&fontColor=F5F0E8&fontSize=28&desc=Inspired%20design&descAlignY=80&descSize=14" alt="Portfolio" width="440"/>
-  </a>
-</p>
-
-&nbsp;
-
 ## Work
 
 <div align="center">
@@ -60,11 +31,27 @@ I audit **harness systems**. I write the **prompts** that make models reliable. 
 | --- | --- |
 | [`llm-and-engine`](https://github.com/RyanDev1st/llm-and-engine) | LLM tool-calling research — training, evals, backend tools, chess demos |
 | [`FORGER / SkillRouter`](https://github.com/RyanDev1st/FORGER) | AI-driven framework for intelligent tool orchestration |
-| [`LiquidChess`](https://ryandev1st.github.io/LiquidChess/) | Chess engine + inspired web design — [live demo](https://ryandev1st.github.io/LiquidChess/) |
-| [`portfolio-design`](https://github.com/RyanDev1st/portfolio-design) | Personal portfolio — [live demo](https://ryandev1st.github.io/portfolio-design/) |
+| [`LiquidChess`](https://ryandev1st.github.io/LiquidChess/) | Chess engine + inspired web design |
+| [`portfolio-design`](https://ryandev1st.github.io/portfolio-design/) | Personal portfolio |
 | [`Chess-Data`](https://github.com/RyanDev1st/Chess-Data) | Dataset engineering for chess AI evaluation |
 
 </div>
+
+&nbsp;
+
+## Design
+
+<p align="center">
+  <a href="https://ryandev1st.github.io/LiquidChess/">
+    <img src="https://raw.githubusercontent.com/RyanDev1st/LiquidChess/main/show/hero.png" alt="LiquidChess" width="480"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ryandev1st.github.io/portfolio-design/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d0d0d,100:E85D2C&section=footer&text=PORTFOLIO&fontColor=F5F0E8&fontSize=28&desc=Inspired%20design%2C%20no%20AI%20slop&descAlignY=80&descSize=14" alt="Portfolio" width="480"/>
+  </a>
+</p>
 
 &nbsp;
 

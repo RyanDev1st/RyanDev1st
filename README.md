@@ -111,13 +111,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0B0A08?style=flat-square&logo=python&logoColor=E4C77E&labelColor=0B0A08" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-0B0A08?style=flat-square&logo=c++&logoColor=E4C77E&labelColor=0B0A08" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-0B0A08?style=flat-square&logo=cplusplus&logoColor=E4C77E&labelColor=0B0A08" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-0B0A08?style=flat-square&logo=typescript&logoColor=E4C77E&labelColor=0B0A08" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-0B0A08?style=flat-square&logo=javascript&logoColor=E4C77E&labelColor=0B0A08" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PyTorch-0B0A08?style=flat-square&logo=pytorch&logoColor=E4C77E&labelColor=0B0A08" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Hugging%20Face-0B0A08?style=flat-square&logo=huggingface&logoColor=E4C77E&labelColor=0B0A08" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Claude-0B0A08?style=flat-square&logo=claude&logoColor=E4C77E&labelColor=0B0A08" alt="Claude" />
-  <img src="https://img.shields.io/badge/GPT-0B0A08?style=flat-square&logo=gpt&logoColor=E4C77E&labelColor=0B0A08" alt="Codex" />
+  <img src="https://img.shields.io/badge/ChatGPT-0B0A08?style=flat-square&logo=chatgpt&logoColor=E4C77E&labelColor=0B0A08" alt="Codex" />
   <img src="https://img.shields.io/badge/Gemini-0B0A08?style=flat-square&logo=googlegemini&logoColor=E4C77E&labelColor=0B0A08" alt="Gemini" />
   <img src="https://img.shields.io/badge/Figma-0B0A08?style=flat-square&logo=figma&logoColor=E4C77E&labelColor=0B0A08" alt="Figma" />
 </p>
